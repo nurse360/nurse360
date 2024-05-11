@@ -2,7 +2,7 @@
 - 👀 Did you know that nurses love programming? 
 - 🌱 It is not true. Nurses are afraid of computers.
 - ✨ I am not an ordinary nurse.
-- 💞️ Starting my career as a full stack developer.
+- 💞️ Starting my career as a data scientist.
 - 📫 This is my professional profile: https://www.linkedin.com/in/numansilla/ 
 
 <!---
